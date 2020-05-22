@@ -1,5 +1,5 @@
 # README
-The scripts in this folder implement the Self-Triggered Control mechanism described in Gleizer and Mazo Jr. (2020). 
+The scripts in this folder implement the preventive self-triggered control mechanism described in Gleizer and Mazo Jr. (2020). 
 
 This work is part of the [SENTIENT project](https://mmazojr.3me.tudelft.nl/sentient/).
 
